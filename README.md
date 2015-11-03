@@ -27,3 +27,7 @@ http://code.activestate.com/recipes/577825/
 http://stackoverflow.com/questions/17373024/python-database-implementation
 
 http://gadfly.sourceforge.net/
+
+If there is time:
+
+http://pythonhosted.org/facereclib/index.html
