@@ -8,3 +8,4 @@ binary heaps: http://interactivepython.org/runestone/static/pythonds/Trees/Binar
 
 deque: http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatIsaDeque.html
 
+deque implementation: http://interactivepython.org/runestone/static/pythonds/BasicDS/ImplementingaDequeinPython.html
