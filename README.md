@@ -12,4 +12,12 @@ deque implementation: http://interactivepython.org/runestone/static/pythonds/Bas
 
 binary search: http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html
 
+graph algorithms:
+
+http://interactivepython.org/runestone/static/pythonds/Graphs/GeneralDepthFirstSearch.html
+
+http://interactivepython.org/runestone/static/pythonds/Graphs/PrimsSpanningTreeAlgorithm.html
+
+http://interactivepython.org/runestone/static/pythonds/Graphs/DijkstrasAlgorithm.html
+
 
